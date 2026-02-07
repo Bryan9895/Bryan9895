@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dragon</h1>
+<h1 align="center">Hi, I'm Bryan</h1>
 <h3 align="center">a dream never dies.</h3>
 
 - ⚡ Fun fact **Arthur Morgan never dies.**
