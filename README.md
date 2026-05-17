@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bryan</h1>
 <h3 align="center">a dream never dies.</h3>
 
-- ⚡ Fun fact **Arthur Morgan never dies.**
+- ⚡ Fun fact **HESITATION IS DEFEAT.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
