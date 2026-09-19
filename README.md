@@ -12,8 +12,6 @@ Participo de projetos ligados ao **Laboratório de Sistemas e Dados (LSD)**, ond
 
 ###
 
-<img data-importer="image" align="right" height="165" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRvY3pwZXV5cnFmN2JnaTF1YWh2MXhjOGRxa2tkYWJsZm45ZXlnciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UL3bkBEMWfXRyXxQ9L/giphy.gif"  />
-
 ###
 
 <div data-importer="socials" align="left">
